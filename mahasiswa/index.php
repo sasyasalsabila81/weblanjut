@@ -8,8 +8,11 @@
             <td>NPM</td>
         </tr>
         <tr>
-             <td><?= $nama ?></td>
-
-             <td><?= $npm ?></td>
+             <td>
+                Sasya Salsabila
+             </td>
+             <td>
+                1867051001
+             </td>
          </tr>
     </table>
